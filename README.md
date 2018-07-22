@@ -16,9 +16,9 @@ Over time, I've found a list of standards / policies that we are following out o
 
 ## Voting
 
-Tradition: [Plurality Voting](https://en.wikipedia.org/wiki/Plurality_voting)
+**Tradition**: [Plurality Voting](https://en.wikipedia.org/wiki/Plurality_voting)
 
-Better Standard: [Approval Voting](https://en.wikipedia.org/wiki/Approval_voting)
+**Better Standard**: [Approval Voting](https://en.wikipedia.org/wiki/Approval_voting)
 
 According to [Duverger's Law](https://en.wikipedia.org/wiki/Duverger%27s_law), a plurality system marginalizes smaller political parties, generally resulting in a two-party system. 
 
@@ -34,9 +34,9 @@ Why we haven't switched yet: Politicians in power, would lose power by diluting 
 
 ## Taxing
 
-Tradition: Sales Tax / VAT, Income Tax, Capital Gains, Property Tax
+**Tradition**: Sales Tax / VAT, Income Tax, Capital Gains, Property Tax
 
-Better Standard: [Georgism](https://en.wikipedia.org/wiki/Georgism), [Land Value Tax](https://en.wikipedia.org/wiki/Land_value_tax)
+**Better Standard**: [Georgism](https://en.wikipedia.org/wiki/Georgism), [Land Value Tax](https://en.wikipedia.org/wiki/Land_value_tax)
 
 Most taxes distort economic decisions and suppress beneficial economic activity.
 
@@ -48,12 +48,12 @@ Why we haven't switched yet: Land would be signficantly cheaper if people had to
 
 ## Welfare
 
-Tradition: Subsidized housing, Government run schools, Minimum wage requirements
+**Tradition**: Subsidized housing, Government run schools, Minimum wage requirements
 
-Better Standard: [Universal Basic Income](https://en.wikipedia.org/wiki/Basic_income)
+**Better Standard**: [Universal Basic Income](https://en.wikipedia.org/wiki/Basic_income)
 
 ## Radix
 
-Tradition: [Decimal](https://en.wikipedia.org/wiki/Decimal)
+**Tradition**: [Decimal](https://en.wikipedia.org/wiki/Decimal)
 
-Better Standard: [Heximal](https://en.wikipedia.org/wiki/Senary)
+**Better Standard**: [Heximal](https://en.wikipedia.org/wiki/Senary)
