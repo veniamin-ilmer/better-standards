@@ -30,3 +30,14 @@ And more parties, means the amount of bribes (political contributions), will be 
 
 I feel Approval Voting is better than others. CGP Grey makes a good argument why with his [analogy of finding a place where to eat](https://youtu.be/orybDrUj4vA?t=9).
 
+## Taxing
+
+Tradition: Sales Tax / VAT, Income Tax, Capital Gains, Property Tax
+
+Better Standard: [Georgism](https://en.wikipedia.org/wiki/Georgism), [Land Value Tax](https://en.wikipedia.org/wiki/Land_value_tax)
+
+Most taxes distort economic decisions and suppress beneficial economic activity.
+
+Sales taxes will cause products to cost more, or products to not sell at all.
+
+Georgistic taxes will tax monopolistic assets (Land, electromagnetic spectrum), causing owners to use the resource more efficiently. It has positive externalities.
