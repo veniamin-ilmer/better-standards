@@ -46,5 +46,14 @@ Georgistic taxes will tax monopolistic assets (Land, electromagnetic spectrum, c
 
 Why we haven't switched yet: Land would be signficantly cheaper if people had to pay high taxes for its ownership. Current land owners wouldn't like that. And Land owners are powerful.
 
-## Base 6
+##Welfare
 
+Tradition: Subsidized housing, Government run schools, Minimum wage requirements
+
+Better Standard: [Universal Basic Income](https://en.wikipedia.org/wiki/Basic_income)
+
+## Radix
+
+Tradition: [Decimal](https://en.wikipedia.org/wiki/Decimal)
+
+Better Standard: [Heximal](https://en.wikipedia.org/wiki/Senary)
