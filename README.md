@@ -74,4 +74,6 @@ If you chart out all the turns of a four way intersection, there are 16 possible
 
 In a three way intersection, there are only 3 possible collision points inside.
 
+[See example road layouts](hexagonal)
+
 **Why we haven't switched yet**: Unknown
