@@ -30,7 +30,7 @@ And more parties, means the amount of bribes (political contributions), will be 
 
 I feel Approval Voting is better than others. CGP Grey makes a good argument why with his [analogy of finding a place where to eat](https://youtu.be/orybDrUj4vA?t=9).
 
-Why we haven't switched yet: Politicians in power, would lose power by diluting it to other parties.
+**Why we haven't switched yet**: Politicians in power, would lose power by diluting it to other parties.
 
 ## Taxing
 
@@ -44,7 +44,7 @@ Sales taxes will cause products to cost more, or products to not sell at all.
 
 Georgistic taxes will tax monopolistic assets (Land, electromagnetic spectrum, copyright/patents), causing owners to use the resource more efficiently. It has positive externalities.
 
-Why we haven't switched yet: Land would be signficantly cheaper if people had to pay high taxes for its ownership. Current land owners wouldn't like that. And Land owners are powerful.
+**Why we haven't switched yet**: Land would be signficantly cheaper if people had to pay high taxes for its ownership. Current land owners wouldn't like that. And Land owners are powerful.
 
 ## Welfare
 
@@ -73,3 +73,5 @@ A purely hexagonal road tilling means that only 3 roads join at an intersection 
 If you chart out all the turns of a four way intersection, there are 16 possible collision points inside.
 
 In a three way intersection, there are only 3 possible collision points inside.
+
+**Why we haven't switched yet**: Unknown
