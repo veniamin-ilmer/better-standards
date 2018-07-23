@@ -57,3 +57,19 @@ Why we haven't switched yet: Land would be signficantly cheaper if people had to
 **Tradition**: [Decimal](https://en.wikipedia.org/wiki/Decimal)
 
 **Better Standard**: [Heximal](https://en.wikipedia.org/wiki/Senary)
+
+## Road Design
+
+**Tradition**: Square / Rectangular Grid Patterns
+
+**Better Standard**: [Hexagonal](http://web.mit.edu/ebj/www/Hexagonal.pdf)
+
+Ideally with road design, we'd want to minimize the amount of road, and maximize the amount of area that the road gets us to.
+
+A honeycomb hexagonal design maximizes the area, and minimizes the perimeter. Doing this should lower the amount of roads we require, and hence minize road cost.
+
+A purely hexagonal road tilling means that only 3 roads join at an intersection (instead of a usual four way intersection with square grid).
+
+If you chart out all the turns of a four way intersection, there are 16 possible collision points inside.
+
+In a three way intersection, there are only 3 possible collision points inside.
