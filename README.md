@@ -77,3 +77,9 @@ In a three way intersection, there are only 3 possible collision points inside.
 [See example road layouts](hexagonal)
 
 **Why we haven't switched yet**: Unknown
+
+## Timekeeping
+
+**Tradition**: Time varies depending on your geographical position on earth. Time zones and daylight savings time is used.
+
+**Better Stamdard**: Everyone adapt [Universal Time](https://en.wikipedia.org/wiki/Universal_Time)
