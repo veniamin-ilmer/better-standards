@@ -76,4 +76,12 @@ I'd want a way to be able signal a number to a friend from the distance, with no
 
 And base 6 provides a very simple way to do this.
 
-*TODO: Get photos of me showing how to count in base 6*
+[View video how to count in base 6](https://www.youtube.com/watch?v=VXw40fzWeu0).
+
+## Conclusion
+
+From my research it sounds like humans are best at working with the heximal number system.
+
+I hence will be trying to promote the heximal number system to others.
+
+I will be relearning the multiplication table in radix 6, and learning anything else I could about the heximal number system.
