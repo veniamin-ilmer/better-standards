@@ -12,6 +12,7 @@ Number / 2 | Popularity * 100
 9 | 14.4
 
 Number / 3 | Popularity * 100
+--- | ---
 1 | 67.6
 2 | 35.65
 3 | 23.3
@@ -24,6 +25,7 @@ Number / 3 | Popularity * 100
 9 | 10
 
 Number / 4 | Popularity * 100
+--- | ---
 1 | 51.8
 2 | 28.4
 5 | 23
@@ -36,6 +38,7 @@ Number / 4 | Popularity * 100
 9 | 6.7
 
 Number / 5 | Popularity * 100
+--- | ---
 1 | 47.5
 2 | 36.3
 4 | 23
