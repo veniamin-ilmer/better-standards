@@ -1,4 +1,4 @@
-# Number Popularity
+# Base 6
 
 I think our base 10 number system, is not the most optimal for our [subitizing](https://en.wikipedia.org/wiki/Subitizing) minds to handle.
 
@@ -23,3 +23,11 @@ My theory is that people will understand numbers better if they were closer to [
 I looked up number popularity on [Google Ngram](https://books.google.com/ngrams)
 
 [Here are the results](stats.md)
+
+Notice that 10 appears in the position of the number 6.
+
+Intrigued by this, I wondered if this effect can be seen with other multiples.
+
+And indeed, I found that 10 usually appears in position 6 in most multiples that I've tried.
+
+Here are some examples: [2x popularity], [3x popularity], [4x popularity], [5x popularity]
