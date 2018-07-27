@@ -56,7 +56,7 @@ You usually group the sticks into groups of two or three, and can quickly count 
 
 I feel that base 6 helps with counting in such grouped ways.
 
-If 6 were the base, the number of sticks here would be 10. his means you can count:
+If 6 were the base, the number of sticks here would be 10. This means you can count:
 
 2, 4, 10, 12, 14, 20, 22, 24, 30, ...
 
