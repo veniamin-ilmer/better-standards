@@ -84,4 +84,5 @@ From my research it sounds like humans are best at working with the heximal numb
 
 I hence will be trying to promote the heximal number system to others.
 
-I will be relearning the multiplication table in radix 6, and learning anything else I could about the heximal number system.
+I will start by learning the multiplication table in using the heximal base system. I've already [created a quizlet page to start learning](https://quizlet.com/305883769/multiplying-base-6-result-up-to-100-flash-cards/).
+
