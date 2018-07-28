@@ -44,6 +44,8 @@ Sales taxes will cause products to cost more, or products to not sell at all.
 
 Georgistic taxes will tax monopolistic assets (Land, electromagnetic spectrum, copyright/patents), causing owners to use the resource more efficiently. It has positive externalities.
 
+The government should send people a request for payment. People should not need to fill out a tax form declaring how much they'd have to pay. There should be no exceptions for lower tax payment.
+
 **Why we haven't switched yet**: Land would be signficantly cheaper if people had to pay high taxes for its ownership. Current land owners wouldn't like that. And Land owners are powerful.
 
 ## Welfare
@@ -52,11 +54,21 @@ Georgistic taxes will tax monopolistic assets (Land, electromagnetic spectrum, c
 
 **Better Standard**: [Universal Basic Income](https://en.wikipedia.org/wiki/Basic_income)
 
+**Why we haven't switched yet**: Fear of some people inappropriately using the money.
+
+## Identification
+
+**Tradition**: ID number written on a card. (Social security number, credit card number, passport number, etc.)
+
+**Better Standard**: Passworded identification. Each ID must have an associated password. No-one should be able to make any changes to a person's record, simply using the ID. A password must be required to verify identity. This password must not be stored by any commercial organization, and must be asked for each time a change needs to be made.
+
+**Why we haven't switched yet**: Tradition
+
 ## Radix
 
 **Tradition**: [Decimal](https://en.wikipedia.org/wiki/Decimal)
 
-**Better Standard**: [Heximal](https://en.wikipedia.org/wiki/Senary)
+**Better Standard**: [Heximal](https://github.com/veniamin-ilmer/better-standards/tree/master/base-6)
 
 What is the best radix? - Is a question through about for a long time..
 
@@ -66,7 +78,7 @@ Anyway, humans don't seem to need to save more space like machines, for bigger r
 
 I think I finally found what I was looking for with base 6, based on how humans naturally use numbers.
 
-[Here are my results](https://github.com/veniamin-ilmer/better-standards/tree/master/base-6)
+**Why we haven't switched yet**: Tradition
 
 ## Road Design
 
@@ -86,10 +98,16 @@ In a three way intersection, there are only 3 possible collision points inside.
 
 [See example road layouts](hexagonal)
 
-**Why we haven't switched yet**: Unknown
+**Why we haven't switched yet**: Tradition
 
 ## Timekeeping
 
 **Tradition**: Time varies depending on your geographical position on earth. Time zones and daylight savings time is used.
 
-**Better Stamdard**: Everyone adapt [Universal Time](https://en.wikipedia.org/wiki/Universal_Time)
+**Better Standard**: Everyone adapt [Universal Time](https://en.wikipedia.org/wiki/Universal_Time)
+
+Without timezones and daylight savings time, time tracking would be significantly easier.
+
+You'd just have to remember at what time are people awake in different parts of the world.
+
+**Why we haven't switched yet**: Tradition
