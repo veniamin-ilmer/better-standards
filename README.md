@@ -58,6 +58,16 @@ Georgistic taxes will tax monopolistic assets (Land, electromagnetic spectrum, c
 
 **Better Standard**: [Heximal](https://en.wikipedia.org/wiki/Senary)
 
+What is the best radix? - Is a question through about for a long time..
+
+e is considered the [most space efficent](https://en.wikipedia.org/wiki/Radix_economy), but is quite inconvenient to use.
+
+Anyway, humans don't seem to need to save more space like machines, for bigger radix numbers.
+
+I think I finally found what I was looking for with base 6, based on how humans naturally use numbers.
+
+[Here are my results](https://github.com/veniamin-ilmer/better-standards/tree/master/base-6)
+
 ## Road Design
 
 **Tradition**: Square / Rectangular Grid Patterns
