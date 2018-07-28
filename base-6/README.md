@@ -92,6 +92,6 @@ I will start by learning the multiplication table in using the heximal base syst
 
 As I learn new things about the heximal number system, I will write them here.
 
-If you're interested in learning more, [here is a wiki on base 6](http://shacktoms.org/base-six/base-six.htm).
+If you're interested in learning more, [here is a wiki on base 6](https://en.wikipedia.org/wiki/Senary).
 
 [Here's a page that redefines units of measurements to be in base 6](http://shacktoms.org/base-six/base-six.htm).
