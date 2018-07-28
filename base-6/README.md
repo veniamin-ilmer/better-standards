@@ -96,4 +96,4 @@ If you're interested in learning more, [here is a wiki on base 6](https://en.wik
 
 [Here's a page that redefines units of measurements to be in base 6](http://shacktoms.org/base-six/base-six.htm).
 
-<iframe src="clock.htm"></iframe>
+Based on his idea, I built an [analog clock webpage](clock.htm) using the new heximal time system.
