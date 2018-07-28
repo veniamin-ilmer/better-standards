@@ -86,3 +86,8 @@ I hence will be trying to promote the heximal number system to others.
 
 I will start by learning the multiplication table in using the heximal base system. I've already [created a quizlet page to start learning](https://quizlet.com/305883769/multiplying-base-6-result-up-to-100-flash-cards/).
 
+As I learn new things about the heximal number system, I will write them here.
+
+If you're interested in learning more, [here is a wiki on base 6](http://shacktoms.org/base-six/base-six.htm).
+
+[Here's a page that redefines units of measurements to be in base 6](http://shacktoms.org/base-six/base-six.htm).
