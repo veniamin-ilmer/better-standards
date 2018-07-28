@@ -18,7 +18,7 @@ Why should 100 be more popular than 99?
 
 Why should 1000 be more popular than 999?
 
-My theory is that people will understand numbers better if they were closer to [subitizing limits](https://en.wikipedia.org/wiki/Subitizing).
+My hypothesis is that people will understand numbers better if they were closer to [subitizing limits](https://en.wikipedia.org/wiki/Subitizing).
 
 ## Research
 
@@ -31,6 +31,10 @@ Notice that 10 appears in the position of the number 6.
 Intrigued by this, I wondered if this effect can be seen with other multiples.
 
 And indeed, I found that 10 usually appears close to position 6 in [all multiples that I've tried](stats-multiples.md).
+
+I looked, it even works for [numbers spelled out in english](stats-english.md).
+
+It's as if people naturally want to associate "10" with the sixed number position.
 
 ## Interpretation
 
