@@ -1,4 +1,4 @@
-# Base 6
+# Heximal
 
 I think our decimal number system, is not the most optimal for our [subitizing](https://en.wikipedia.org/wiki/Subitizing) minds to handle.
 
