@@ -60,7 +60,7 @@ Georgistic taxes will tax monopolistic assets (Land, electromagnetic spectrum, c
 
 What is the best radix? - Is a question through about for a long time..
 
-e is considered the [most space efficent](https://en.wikipedia.org/wiki/Radix_economy), but is quite inconvenient to use.
+e is considered the [most space efficient](https://en.wikipedia.org/wiki/Radix_economy), but is quite inconvenient to use.
 
 Anyway, humans don't seem to need to save more space like machines, for bigger radix numbers.
 
