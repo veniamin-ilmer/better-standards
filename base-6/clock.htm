@@ -1,0 +1,171 @@
+<!--Code based on: https://codepen.io/iliadraznin/pen/JcqbE -->
+
+<title>Heximal Clock</title>
+<style>
+ul { list-style: none; }
+li { position: absolute; left: 50%; top: 50% }
+li:nth-child(1) { transform: rotate(0deg) translateY(-300px); }
+li:nth-child(2) { transform: rotate(10deg) translateY(-300px); }
+li:nth-child(3) { transform: rotate(20deg) translateY(-300px); }
+li:nth-child(4) { transform: rotate(30deg) translateY(-300px); }
+li:nth-child(5) { transform: rotate(40deg) translateY(-300px); }
+li:nth-child(6) { transform: rotate(50deg) translateY(-300px); }
+li:nth-child(7) { transform: rotate(60deg) translateY(-300px); }
+li:nth-child(8) { transform: rotate(70deg) translateY(-300px); }
+li:nth-child(9) { transform: rotate(80deg) translateY(-300px); }
+li:nth-child(10) { transform: rotate(90deg) translateY(-300px); }
+li:nth-child(11) { transform: rotate(100deg) translateY(-300px); }
+li:nth-child(12) { transform: rotate(110deg) translateY(-300px); }
+li:nth-child(13) { transform: rotate(120deg) translateY(-300px); }
+li:nth-child(14) { transform: rotate(130deg) translateY(-300px); }
+li:nth-child(15) { transform: rotate(140deg) translateY(-300px); }
+li:nth-child(16) { transform: rotate(150deg) translateY(-300px); }
+li:nth-child(17) { transform: rotate(160deg) translateY(-300px); }
+li:nth-child(18) { transform: rotate(170deg) translateY(-300px); }
+li:nth-child(19) { transform: rotate(180deg) translateY(-300px); }
+li:nth-child(20) { transform: rotate(190deg) translateY(-300px); }
+li:nth-child(21) { transform: rotate(200deg) translateY(-300px); }
+li:nth-child(22) { transform: rotate(210deg) translateY(-300px); }
+li:nth-child(23) { transform: rotate(220deg) translateY(-300px); }
+li:nth-child(24) { transform: rotate(230deg) translateY(-300px); }
+li:nth-child(25) { transform: rotate(240deg) translateY(-300px); }
+li:nth-child(26) { transform: rotate(250deg) translateY(-300px); }
+li:nth-child(27) { transform: rotate(260deg) translateY(-300px); }
+li:nth-child(28) { transform: rotate(270deg) translateY(-300px); }
+li:nth-child(29) { transform: rotate(280deg) translateY(-300px); }
+li:nth-child(30) { transform: rotate(290deg) translateY(-300px); }
+li:nth-child(31) { transform: rotate(300deg) translateY(-300px); }
+li:nth-child(32) { transform: rotate(310deg) translateY(-300px); }
+li:nth-child(33) { transform: rotate(320deg) translateY(-300px); }
+li:nth-child(34) { transform: rotate(330deg) translateY(-300px); }
+li:nth-child(35) { transform: rotate(340deg) translateY(-300px); }
+li:nth-child(36) { transform: rotate(350deg) translateY(-300px); }
+li:nth-child(1) div { transform: rotate(-0deg) translate(-50%, -50%); }
+li:nth-child(2) div { transform: rotate(-10deg) translate(-50%, -50%); }
+li:nth-child(3) div { transform: rotate(-20deg) translate(-50%, -50%); }
+li:nth-child(4) div { transform: rotate(-30deg) translate(-50%, -50%); }
+li:nth-child(5) div { transform: rotate(-40deg) translate(-50%, -50%); }
+li:nth-child(6) div { transform: rotate(-50deg) translate(-50%, -50%); }
+li:nth-child(7) div { transform: rotate(-60deg) translate(-50%, -50%); }
+li:nth-child(8) div { transform: rotate(-70deg) translate(-50%, -50%); }
+li:nth-child(9) div { transform: rotate(-80deg) translate(-50%, -50%); }
+li:nth-child(10) div { transform: rotate(-90deg) translate(-50%, -50%); }
+li:nth-child(11) div { transform: rotate(-100deg) translate(-50%, -50%); }
+li:nth-child(12) div { transform: rotate(-110deg) translate(-50%, -50%); }
+li:nth-child(13) div { transform: rotate(-120deg) translate(-50%, -50%); }
+li:nth-child(14) div { transform: rotate(-130deg) translate(-50%, -50%); }
+li:nth-child(15) div { transform: rotate(-140deg) translate(-50%, -50%); }
+li:nth-child(16) div { transform: rotate(-150deg) translate(-50%, -50%); }
+li:nth-child(17) div { transform: rotate(-160deg) translate(-50%, -50%); }
+li:nth-child(18) div { transform: rotate(-170deg) translate(-50%, -50%); }
+li:nth-child(19) div { transform: rotate(-180deg) translate(-50%, -50%); }
+li:nth-child(20) div { transform: rotate(-190deg) translate(-50%, -50%); }
+li:nth-child(21) div { transform: rotate(-200deg) translate(-50%, -50%); }
+li:nth-child(22) div { transform: rotate(-210deg) translate(-50%, -50%); }
+li:nth-child(23) div { transform: rotate(-220deg) translate(-50%, -50%); }
+li:nth-child(24) div { transform: rotate(-230deg) translate(-50%, -50%); }
+li:nth-child(25) div { transform: rotate(-240deg) translate(-50%, -50%); }
+li:nth-child(26) div { transform: rotate(-250deg) translate(-50%, -50%); }
+li:nth-child(27) div { transform: rotate(-260deg) translate(-50%, -50%); }
+li:nth-child(28) div { transform: rotate(-270deg) translate(-50%, -50%); }
+li:nth-child(29) div { transform: rotate(-280deg) translate(-50%, -50%); }
+li:nth-child(30) div { transform: rotate(-290deg) translate(-50%, -50%); }
+li:nth-child(31) div { transform: rotate(-300deg) translate(-50%, -50%); }
+li:nth-child(32) div { transform: rotate(-310deg) translate(-50%, -50%); }
+li:nth-child(33) div { transform: rotate(-320deg) translate(-50%, -50%); }
+li:nth-child(34) div { transform: rotate(-330deg) translate(-50%, -50%); }
+li:nth-child(35) div { transform: rotate(-340deg) translate(-50%, -50%); }
+li:nth-child(36) div { transform: rotate(-350deg) translate(-50%, -50%); }
+
+li div { font-size: 100% }
+li div.c { font-size: 200% }
+li div.b { font-size: 300% }
+
+@keyframes hours { to {transform:rotate(335deg)} }
+
+.hours-hand { width: .8em; height: 7em;
+border-radius: 0 0 .9em .9em;
+background: #232425;
+position: absolute;
+bottom: 50%;
+left: 50%;
+margin: 0 0 -.8em -.4em;
+box-shadow: #232425 0 0 2px;
+transform-origin: 0.4em 6.2em;
+transform: rotate(-25deg);
+animation: hours 43200s linear 0s infinite;
+}
+
+@keyframes minutes { to {transform:rotate(422deg)} }
+.minutes-hand { width: .8em; height: 12.5em;
+border-radius: .5em;
+background: #343536;
+position: absolute;
+bottom: 50%;
+left: 50%;
+margin: 0 0 -1.5em -.4em;
+box-shadow: #343536 0 0 2px;
+transform-origin: 0.4em 11em;
+transform: rotate(62deg);
+animation: minutes 3600s linear 0s infinite;
+}
+
+@keyframes seconds { to {transform:rotate(480deg)} }
+.seconds-hand { width: .2em; height: 14em;
+border-radius: .1em .1em 0 0/10em 10em 0 0;
+background: #c00;
+position: absolute;
+bottom: 50%;
+left: 50%;
+margin: 0 0 -2em -.1em;
+box-shadow: rgba(0,0,0,.8) 0 0 .2em;
+transform-origin: 0.1em 12em;
+transform: rotate(120deg);
+animation: seconds 60s steps(36, end) 0s infinite;
+}
+
+
+</style>
+<br /><br />
+<ul>
+  <li><div class=b>00</div></li>
+  <li><div>01</div></li>
+  <li><div>02</div></li>
+  <li><div class=c>03</div></li>
+  <li><div>04</div></li>
+  <li><div>05</div></li>
+  <li><div class=b>10</div></li>
+  <li><div>11</div></li>
+  <li><div>12</div></li>
+  <li><div class=c>13</div></li>
+  <li><div>14</div></li>
+  <li><div>15</div></li>
+  <li><div class=b>20</div></li>
+  <li><div>21</div></li>
+  <li><div>22</div></li>
+  <li><div class=c>23</div></li>
+  <li><div>24</div></li>
+  <li><div>25</div></li>
+  <li><div class=b>30</div></li>
+  <li><div>31</div></li>
+  <li><div>32</div></li>
+  <li><div class=c>33</div></li>
+  <li><div>34</div></li>
+  <li><div>45</div></li>
+  <li><div class=b>40</div></li>
+  <li><div>41</div></li>
+  <li><div>42</div></li>
+  <li><div class=c>43</div></li>
+  <li><div>44</div></li>
+  <li><div>45</div></li>
+  <li><div class=b>50</div></li>
+  <li><div>51</div></li>
+  <li><div>52</div></li>
+  <li><div class=c>53</div></li>
+  <li><div>54</div></li>
+  <li><div>55</div></li>
+</ul>
+
+<div class="hours-hand"></div>
+<div class="minutes-hand"></div>
+<div class="seconds-hand"></div>
