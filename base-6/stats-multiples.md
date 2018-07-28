@@ -1,3 +1,9 @@
+I've taken numbers from [here](stats.md).
+
+All numbers that were divisible by 2, 3, 4, or 5 below were divided.
+
+The purpose of this is to see if 10 will keep on appearing in a similar location, regardless of the multiple. And it seems it does.
+
 Number / 2 | Popularity * 100
 --- | ---
 1 | 87.6
