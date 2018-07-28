@@ -1,10 +1,10 @@
 # Base 6
 
-I think our base 10 number system, is not the most optimal for our [subitizing](https://en.wikipedia.org/wiki/Subitizing) minds to handle.
+I think our decimal number system, is not the most optimal for our [subitizing](https://en.wikipedia.org/wiki/Subitizing) minds to handle.
 
 Yes, we have 10 fingers, but you can learn to use those fingers to count in different bases.
 
-I think the base 10 model has made it more difficult to understand large numbers, and the only reason we hold onto it is out of tradition.
+I think the decimal model has made it more difficult to understand large numbers, and the only reason we hold onto it is out of tradition.
 
 In attempt to understand which base would be better, I did analysis on the *popularity* of numbers.
 
