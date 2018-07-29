@@ -99,3 +99,5 @@ As I learn new things about the heximal number system, I will write them here.
 * [I build an Analog clock webpage](clock.htm) using the new heximal time system.
 * [Heximal Times Table](times-table.md)
 * [First 1.00 Prime Numbers](primes.md)
+* [Heximal Factorial](factorial.md)
+* [Heximal Squared](squared.md)
