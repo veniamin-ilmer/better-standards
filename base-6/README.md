@@ -92,8 +92,10 @@ I will start by learning the multiplication table in using the heximal base syst
 
 As I learn new things about the heximal number system, I will write them here.
 
-If you're interested in learning more, [here is a wiki on base 6](https://en.wikipedia.org/wiki/Senary).
+## Links
 
-[Here's a page that redefines units of measurements to be in base 6](http://shacktoms.org/base-six/base-six.htm).
-
-Based on his idea, I built an [analog clock webpage](clock.htm) using the new heximal time system.
+* [Base 6 Wiki](https://en.wikipedia.org/wiki/Senary).
+* [Redefining basic units of measurement in base 6](http://shacktoms.org/base-six/base-six.htm).
+* [I build an Analog clock webpage](clock.htm) using the new heximal time system.
+* [Heximal Times Table](times-table.md)
+* [First 1.00 Prime Numbers](primes.md)
