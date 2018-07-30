@@ -1,4 +1,6 @@
-| Primes |
+[Prime Number Wiki](https://en.wikipedia.org/wiki/Prime_number)
+
+| Prime |
 | ------: |
 | 2 |
 | 3 |
