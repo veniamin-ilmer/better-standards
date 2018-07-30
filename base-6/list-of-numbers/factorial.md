@@ -1,3 +1,5 @@
+[Factorial Wiki](https://en.wikipedia.org/wiki/Factorial)
+
 Number | Factorial
 ---: | ---:
 0! | 1
