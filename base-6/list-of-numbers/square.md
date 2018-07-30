@@ -1,4 +1,6 @@
-Number | Squared
+[Square Number Wiki](https://en.wikipedia.org/wiki/Square_number)
+
+Order | Square
 ---: | ---:
 0 | 0
 1 | 1
