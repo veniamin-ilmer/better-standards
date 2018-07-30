@@ -12,5 +12,5 @@ Constant | Value
 
 Constant | Value
 --- | ---:
-[Fine-structure Constant](https://en.wikipedia.org/wiki/Fine-structure_constant) | 0:00.13.24.24.43.00.05.55
-[Proton to Electron Mass Ratio](https://en.wikipedia.org/wiki/Proton-to-electron_mass_ratio) | 1.23.00:05.25.51.05.3
+[Fine-structure Constant](https://en.wikipedia.org/wiki/Fine-structure_constant) |                   0:00.13.24.24.43.00.05.55
+[Proton to Electron Mass Ratio](https://en.wikipedia.org/wiki/Proton-to-electron_mass_ratio) | 1.23.00:05.25.51.05.3?.??.??.??
