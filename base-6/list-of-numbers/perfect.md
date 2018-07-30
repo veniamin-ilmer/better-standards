@@ -1,3 +1,5 @@
+[Perfect Number Wiki](https://en.wikipedia.org/wiki/Perfect_number)
+
 | Perfect |
 | ---: |
 | 10 |
