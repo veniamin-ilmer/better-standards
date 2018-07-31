@@ -62,7 +62,19 @@ The government should send people a request for payment. People should not need 
 
 **Better Standard**: Passworded identification. Each ID must have an associated password. No-one should be able to make any changes to a person's record, simply using the ID. A password must be required to verify identity. This password must not be stored by any commercial organization, and must be asked for each time a change needs to be made.
 
-**Why we haven't switched yet**: Tradition
+In the United States, some people continue to reject the concept of an Identity Card, preferring to have the ability to remain anonymous. On the federal level, no formal personal form of identification was made. Passports are for traveling outside of the United States. Drivers licenses are for driving. Citizens can live without passports or drivers licenses. As a consequence, (because the US still needs some way to track people, especially for taxation), an informal form of identification (the social security card), became the defacto standard Identity card.
+
+Now the Social Security Number has been used for everything imaginable. From a verification when subscribing to internet service, to recording bankruptcy, loans, and home deeds.
+
+**Why we haven't switched yet**: Adding password protection to the social security card, will mean people will have to admit that it is an Identity Card... Some citizens are not ready to make that change.
+
+## Healthcare Payment
+
+**Tradition**: The place where you work, pays every month to a health insurance company. When you need to go to the doctor, the insurance company pays the doctor.
+
+**Better Standard**: The place where you work should pay every month directly to your doctor, regardless if you are sick or not.
+
+
 
 ## Radix
 
@@ -78,7 +90,7 @@ Anyway, humans don't seem to need to save more space like machines, for bigger r
 
 I think I finally found what I was looking for with base 6, based on how humans naturally use numbers.
 
-**Why we haven't switched yet**: Tradition
+**Why we haven't switched yet**: Tradition. Not enough awareness of alternative.
 
 ## Road Design
 
@@ -98,7 +110,7 @@ In a three way intersection, there are only 3 possible collision points inside.
 
 [See example road layouts](hexagonal)
 
-**Why we haven't switched yet**: Tradition
+**Why we haven't switched yet**: Tradition. Not enough awareness of alternative.
 
 ## Timekeeping
 
@@ -110,4 +122,4 @@ Without timezones and daylight savings time, time tracking would be significantl
 
 You'd just have to remember at what time are people awake in different parts of the world.
 
-**Why we haven't switched yet**: Tradition
+**Why we haven't switched yet**: Tradition. Not enough awareness of alternative.
