@@ -46,7 +46,7 @@ Georgistic taxes will tax monopolistic assets (Land, electromagnetic spectrum, c
 
 The government should send people a request for payment. People should not need to fill out a tax form declaring how much they'd have to pay. There should be no exceptions for lower tax payment.
 
-**Why we haven't switched yet**: Land would be signficantly cheaper if people had to pay high taxes for its ownership. Current land owners wouldn't like that. And Land owners are powerful.
+**Why we haven't switched yet**: Land would be signficantly cheaper if people had to pay high taxes for its ownership. Current land owners wouldn't like that. And Land owners hold power in government planning.
 
 ## Welfare
 
@@ -72,9 +72,23 @@ Now the Social Security Number has been used for everything imaginable. From a v
 
 **Tradition**: The place where you work, pays every month to a health insurance company. When you need to go to the doctor, the insurance company pays the doctor.
 
-**Better Standard**: The place where you work should pay every month directly to your doctor, regardless if you are sick or not.
+**Better Standard**: The place where you work should pay every month directly to the employee's doctor, regardless if they are sick or not. Under normal circumstances, the patients should not need to pay anything when visiting their doctor.
 
+In a traditional payment system, a doctor will be payed more if a patient needs to come back to the office multiple times for a reoccuring problem.
 
+If instead the doctor gets payed constantly, regardless if sick or not, it is in the doctor's best interest to keep their patients not sick all the time.
+
+Removing the insurance company greatly simplifies the payment system, bringing down the cost of healthcare.
+
+The employee should be able to choose and switch to any doctor they want, at any time.
+
+Because they're being paid all the time from healthy patients, doctors should be proactively trying to make sure their patents stay health, by running various blood tests, perscribing vitamins in advance.
+
+Doctors can do short term personalized drug testing on their healthy patients, to check for side effects. That way if the patents get sick, the doctor will know which drugs they can give didn't have side effects in previous personalized testing.
+
+Short term drugs include: Sleeping Pills, Anohetamines, and Ciprofloxacin.
+
+**Why we haven't switched yet**: Health Insurance companies wouldn't like this, and they hold power in government planning.
 
 ## Radix
 
