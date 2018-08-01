@@ -42,7 +42,7 @@ Most taxes distort economic decisions and suppress beneficial economic activity.
 
 Sales taxes will cause products to cost more, or products to not sell at all.
 
-Georgistic taxes will tax monopolistic assets (Land, electromagnetic spectrum, copyright/patents), causing owners to use the resource more efficiently. It has positive externalities.
+Georgistic taxes will tax monopolistic assets (Land, electromagnetic spectrum, copyright/patents, domain names), causing owners to use the resource more efficiently. It has positive externalities.
 
 The government should send people a request for payment. People should not need to fill out a tax form declaring how much they'd have to pay. There should be no exceptions for lower tax payment.
 
@@ -89,6 +89,20 @@ Doctors can do short term personalized drug testing on their healthy patients, t
 Short term drugs include: Sleeping Pills, Anohetamines, and Ciprofloxacin.
 
 **Why we haven't switched yet**: Health Insurance companies wouldn't like this, and they hold power in government planning.
+
+## Intellectual Property
+
+**Tradition**: An organization *buys* and *owns* a patent or copyright for a certain amount of time. During this time, no-one can make products that use the intellectual property, without permission or paying royalties to the owner.
+
+**Better Standard**: An organization should only be able to *rent time* for their exclusivity over a patent or copyright. The longer some intellectual property is rented, the more expensive it should become.
+
+Initial rent should be extremely low cost, potentially free, as an incentive for inventers to patent their own works, instead of depending on large organizations.
+
+The increase of rent payment over time should influence intellectual property owners to make use of their patent or copyright instead of just squating on it, waiting for royalties.
+
+If the "ownership" of the intellectual property switches hands, or if there is a gap between rent, the rent will continue to be the same, increasing over time.
+
+**Why we haven't switched yet**: Some powerful organizations own millions of old patents and copyrights. Switching from a ownership model to a rent model would make these organizations pay significantly more. These organizations would not like that, and they hold power in government planning.
 
 ## Radix
 
