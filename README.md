@@ -110,7 +110,7 @@ If the "ownership" of the intellectual property switches hands, or if there is a
 
 **Better Standard**: [Heximal](https://github.com/veniamin-ilmer/better-standards/tree/master/base-6)
 
-What is the best radix? - Is a question through about for a long time..
+What is the best radix? - Is a question I thought about for a long time..
 
 e is considered the [most space efficient](https://en.wikipedia.org/wiki/Radix_economy), but is quite inconvenient to use.
 
