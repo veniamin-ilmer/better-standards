@@ -1,6 +1,6 @@
 [Centered Hexagonal Number](https://en.wikipedia.org/wiki/Centered_hexagonal_number)
 
-Order | Aliquot Sum
+Order | Hexagon Number
 ---: | ---:
 1 | 1
 2 | 11
