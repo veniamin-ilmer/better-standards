@@ -54,6 +54,18 @@ The government should send people a request for payment. People should not need 
 
 **Better Standard**: [Universal Basic Income](https://en.wikipedia.org/wiki/Basic_income)
 
+All citizens should get the same amount of money, regardless of their income.
+
+They should not need to sign up for any program to receive this money. Everyone should be automatically enrolled.
+
+Why they shouldn't need to sign up: The poorest and worst off may be scared, uninformed, and embarrased, to join this program. If everyone just automatically gets the money, it will help these poorest the most.
+
+Giving the money to everyone will stop rich people from saying, "It's not fair, that poor person is getting money, and I am not." Also, giving the money to everyone will make everyone feel as if the government is doing something for them.
+
+The most poor people may have a higher tendency to spend money as soon as they get it. If the money is dispursed monthly, then the day they get it would be considered the "big day" when they get to spend a lump sum. This may make people more likely to *binge spend*.
+
+As a consequence, I know this may be difficult to pull off for a government agency, but it is very important that this money be dispersed *daily*. Not monthly. Automatically, electronically. Citizens should get accustomed to the money coming in every day, and depend on that money. Once they feel safe that the money will be coming in every day, I feel that will influence people to binge spend less.
+
 **Why we haven't switched yet**: Fear of some people inappropriately using the money.
 
 ## Identification
