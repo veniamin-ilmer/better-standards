@@ -82,7 +82,7 @@ Removing the insurance company greatly simplifies the payment system, bringing d
 
 The employee should be able to choose and switch to any doctor they want, at any time.
 
-Because they're being paid all the time from healthy patients, doctors should be proactively trying to make sure their patents stay health, by running various blood tests, perscribing vitamins in advance.
+Because they're being paid all the time from healthy patients, doctors should be proactively trying to make sure their patents stay healthly, by running various blood tests, perscribing vitamins in advance.
 
 Doctors can do short term personalized drug testing on their healthy patients, to check for side effects. That way if the patents get sick, the doctor will know which drugs they can give didn't have side effects in previous personalized testing.
 
