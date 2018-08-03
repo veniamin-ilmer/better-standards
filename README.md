@@ -144,6 +144,12 @@ Note that the action of recycling may need to be separated from the action of co
 
 Residents should be free to choose which company recycles their things, based on how much they'd be paid.
 
+Being paid to recycle should overall increase how much people recycle.
+
+Note that the companies should only pay for recyclable things. If someone dumps a bunch of random trash into the recycle bin, they shouldn't expect to get a lot of money for it.
+
+If everyone gets paid for recycling, trash companies may become better at removing recyclables from trash collected, and send them to the recycling companies for some extra income.
+
 **Why we haven't switched yet**: Tradition. Not enough awareness of alternative.
 
 ## Radix
