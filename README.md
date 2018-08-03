@@ -215,3 +215,13 @@ Without timezones and daylight savings time, time tracking would be significantl
 You'd just have to remember at what time are people awake in different parts of the world.
 
 **Why we haven't switched yet**: Tradition. Not enough awareness of alternative.
+
+## Light Pollution
+
+**Tradition**: Various light designs are used for outside street lighting.
+
+**Better Standard**: All street lights should point straight down to the road. You shouldn't be able to see the source of light from a birds eye view.
+
+[Watch this video for more information](https://www.youtube.com/watch?v=wIC-iGDTU40&feature=youtu.be&t=528)
+
+**Why we haven't switched yet**: Tradition. Not enough awareness of issues with current light designs.
