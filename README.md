@@ -142,6 +142,8 @@ But other companies should easily be able to outcompete the government by paying
 
 Note that the action of recycling may need to be separated from the action of collecting recyclables as separate organizations.
 
+Residents should be free to choose which company recycles their things, based on how much they'd be paid.
+
 **Why we haven't switched yet**: Tradition. Not enough awareness of alternative.
 
 ## Radix
