@@ -122,7 +122,7 @@ If the "ownership" of the intellectual property switches hands, or if there is a
 
 **Better Standard**: Recycling has become profitable. Residents should be paid to recycle.
 
-Amount of profit made per recycle type:
+Amount of profit made per recycle type in the USA:
 
 Recycle Type | Profit per Ton
 --- | ---:
