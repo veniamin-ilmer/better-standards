@@ -116,6 +116,20 @@ If the "ownership" of the intellectual property switches hands, or if there is a
 
 **Why we haven't switched yet**: Some powerful organizations own millions of old patents and copyrights. Switching from a ownership model to a rent model would make these organizations pay significantly more. These organizations would not like that, and they hold power in government planning.
 
+## Infrastructure
+
+**Tradition**: After getting government approval, Electric companies, Phone companies, and Internet companies, pay for and lay down and own the transmission lines.
+
+**Better Standard**: Government should lay down and own all transmission lines. Companies should be able to plug into these lines to provide services, competing with each other.
+
+If you have a lot of land, and decide to put up a whole bunch of solar panals or wind wills on there, you shouldn't have a problem simply plugging into the existing electric lines, and have people pay you for the electricity.
+
+Switching between two internet companies, shouldn't involve physically changing wires. Multiple internet providers can share the same fiber network.
+
+Competition between multiple internet providers should bring internet prices down.
+
+**Why we haven't switched yet**: Internet Providers prefer to own a monopoly on regions by laying down their own wires. Not enough awareness of alternative.
+
 ## Recycling
 
 **Tradition**: Recycling is a government owned task. Trucks come to collect recyclables from residents for free.
@@ -152,22 +166,6 @@ If everyone gets paid for recycling, trash companies may become better at removi
 
 **Why we haven't switched yet**: Tradition. Not enough awareness of alternative.
 
-## Radix
-
-**Tradition**: [Decimal](https://en.wikipedia.org/wiki/Decimal)
-
-**Better Standard**: [Heximal](https://github.com/veniamin-ilmer/better-standards/tree/master/base-6)
-
-What is the best radix? - Is a question I thought about for a long time..
-
-e is considered the [most space efficient](https://en.wikipedia.org/wiki/Radix_economy), but is quite inconvenient to use.
-
-Anyway, humans don't seem to need to save more space like machines, for bigger radix numbers.
-
-I think I finally found what I was looking for with base 6, based on how humans naturally use numbers.
-
-**Why we haven't switched yet**: Tradition. Not enough awareness of alternative.
-
 ## Road Design
 
 **Tradition**: Square / Rectangular Grid Patterns
@@ -185,6 +183,22 @@ If you chart out all the turns of a four way intersection, there are 16 possible
 In a three way intersection, there are only 3 possible collision points inside.
 
 [See example road layouts](hexagonal)
+
+**Why we haven't switched yet**: Tradition. Not enough awareness of alternative.
+
+## Radix
+
+**Tradition**: [Decimal](https://en.wikipedia.org/wiki/Decimal)
+
+**Better Standard**: [Heximal](https://github.com/veniamin-ilmer/better-standards/tree/master/base-6)
+
+What is the best radix? - Is a question I thought about for a long time..
+
+e is considered the [most space efficient](https://en.wikipedia.org/wiki/Radix_economy), but is quite inconvenient to use.
+
+Anyway, humans don't seem to need to save more space like machines, for bigger radix numbers.
+
+I think I finally found what I was looking for with base 6, based on how humans naturally use numbers.
 
 **Why we haven't switched yet**: Tradition. Not enough awareness of alternative.
 
