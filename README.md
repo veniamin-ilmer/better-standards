@@ -124,9 +124,11 @@ If the "ownership" of the intellectual property switches hands, or if there is a
 
 If you have a lot of land, and decide to put up a whole bunch of solar panals or wind wills on there, you shouldn't have a problem simply plugging into the existing electric lines, and have people pay you for the electricity.
 
+Enough competing electric providers allow for resistance against outages.
+
 Switching between two internet companies, shouldn't involve physically changing wires. Multiple internet providers can share the same fiber network.
 
-Competition between multiple internet providers should bring internet prices down.
+If internet providers can simply plug into the network and not worry about laying down wire, competition should bring internet prices down.
 
 **Why we haven't switched yet**: Internet Providers prefer to own a monopoly on regions by laying down their own wires. Not enough awareness of alternative.
 
