@@ -1,6 +1,6 @@
 # Better Standards
 
-There are lots of standards people follow that aren't the best, but people follow them anyway because it's too costly to switch.
+There are lots of standards out there that aren't the best, but people follow them anyway because it's too costly to switch.
 
 Arguments against switching to the metric system involve the cost of switching away from US units.
 
