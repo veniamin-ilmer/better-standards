@@ -116,6 +116,34 @@ If the "ownership" of the intellectual property switches hands, or if there is a
 
 **Why we haven't switched yet**: Some powerful organizations own millions of old patents and copyrights. Switching from a ownership model to a rent model would make these organizations pay significantly more. These organizations would not like that, and they hold power in government planning.
 
+## Recycling
+
+**Tradition**: Recycling is a government owned task. Trucks come to collect recyclables from residents for free.
+
+**Better Standard**: Recycling has become profitable. Private companies should be in the business of recycling. They should pay residents for providing them with recyclables.
+
+Amount of profit made per recycle type:
+
+Recycle Type | Profit per Ton
+--- | ---:
+Aluminum | $1,325
+HDPE plastic | $250
+PET plastic | $150
+Cardboard | $50
+Paper | $5
+Glass | -$70
+
+[Source 1](https://www.greenbiz.com/article/yes-recycling-still-good-business-if-happens)
+[Source 2](http://kdhnews.com/news/is-recycling-glass-worth-the-cost/article_8e2dd0e6-d956-11e2-ab95-0019bb30f31a.html)
+
+Hence, the government should still provide baseline free recycling service.
+
+But other companies should easily be able to outcompete the government by paying residents to recycle certain things.
+
+Note that the action of recycling may need to be separated from the action of collecting recyclables as separate organizations.
+
+**Why we haven't switched yet**: Tradition. Not enough awareness of alternative.
+
 ## Radix
 
 **Tradition**: [Decimal](https://en.wikipedia.org/wiki/Decimal)
