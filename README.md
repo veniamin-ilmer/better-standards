@@ -120,7 +120,7 @@ If the "ownership" of the intellectual property switches hands, or if there is a
 
 **Tradition**: Recycling is a government owned task. Trucks come to collect recyclables from residents for free.
 
-**Better Standard**: Recycling has become profitable. Private companies should be in the business of recycling. They should pay residents for providing them with recyclables.
+**Better Standard**: Recycling has become profitable. Residents should be paid to recycle.
 
 Amount of profit made per recycle type:
 
@@ -136,19 +136,19 @@ Glass | -$70
 [Source 1](https://www.greenbiz.com/article/yes-recycling-still-good-business-if-happens)
 [Source 2](http://kdhnews.com/news/is-recycling-glass-worth-the-cost/article_8e2dd0e6-d956-11e2-ab95-0019bb30f31a.html)
 
-Hence, the government should still provide baseline free recycling service.
+Hence, the government should still provide baseline free and payed recycling service.
 
-But other companies should easily be able to outcompete the government by paying residents to recycle certain things.
+But other companies should be able to compete with the government by paying residents to recycle certain things.
 
-Note that the action of recycling may need to be separated from the action of collecting recyclables as separate organizations.
+Note that the action of collecting recyclables, may be need to be a separate organization from the action of recycling.
 
 Residents should be free to choose which company recycles their things, based on how much they'd be paid.
 
 Being paid to recycle should overall increase how much people recycle.
 
-Note that the companies should only pay for recyclable things. If someone dumps a bunch of random trash into the recycle bin, they shouldn't expect to get a lot of money for it.
+Note that the companies should only pay for recyclable things. If someone dumps a bunch of random trash into the recycle bin, they shouldn't expect to get money for it, or even for it to be picked up at all.
 
-If everyone gets paid for recycling, trash companies may become better at removing recyclables from trash collected, and send them to the recycling companies for some extra income.
+If everyone gets paid for recycling, trash companies may become better at removing recyclables from their trash collected, and send them to the recycling companies for some extra income.
 
 **Why we haven't switched yet**: Tradition. Not enough awareness of alternative.
 
