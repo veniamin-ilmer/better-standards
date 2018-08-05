@@ -135,11 +135,14 @@ I will start by learning the multiplication table in using the heximal base syst
 
 As I learn new things about the heximal number system, I will write them here.
 
-## Links
+## See also
+
+* [I built an Analog clock webpage](clock.htm) ([Here is a screenshot](clock.png))
+* [Heximal Times Table](times-table.md)
+* [Here's a list of various constants and sequences in Heximal](list-of-numbers)
+
+## External Links
 
 * [Base 6 Wiki](https://en.wikipedia.org/wiki/Senary).
 * [Redefining basic units of measurement in base 6](http://shacktoms.org/base-six/base-six.htm).
 * [Base 6 - The Base Not Taken](http://wiki.c2.com/?BaseSix)
-* [I built an Analog clock webpage](clock.htm) using the new heximal time system.
-* [Heximal Times Table](times-table.md)
-* [Here's a list of various constants and sequences in Heximal](list-of-numbers)
