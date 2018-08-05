@@ -82,6 +82,49 @@ And base 6 provides a very simple way to do this.
 
 [View video how to count in base 6](https://www.youtube.com/watch?v=VXw40fzWeu0).
 
+## Other bases?
+
+### Why not base 12?
+
+The dozenal society have been promoting base 12 since 1944, and has been collecting donations for their effort to spread the word.
+
+But as I've shown earlier, the popularity of number 10 is significantly smaller, closer to number 4 to 6.
+
+Using base 6, we get most of the benefits of base 12, in addition to matching the natural popularity of the number.
+
+Finally, finger counting is much easier in base 6 than base 12, as shown above.
+
+### Why not base 5?
+
+Looking at the popularity of base 10, sometimes it went lower than base 6, towards base 4 and 5.
+
+Indeed, base 5 appears a lot in nature:
+
+* Starfish, some fruit, and most animals fingers have 5 appendages.
+* Sqrt(5) appears in the formula for the golden ratio. The golden ratio appears in the pentagram and pentagon.
+* Per the [Abel-Ruffini Theorem](https://en.wikipedia.org/wiki/Abel%E2%80%93Ruffini_theorem), a "quadratic-like formula" is not possible for any powers at the 5th root or higher. So 5 restarting to 10, makes sense as 4 being the maximal root.
+
+However, base 5 is pretty inconvenient to use.
+
+* 1 / 2 in base 5 = 0.22222222...
+* 1 / 3 in base 5 = 0.13131313...
+* 1 / 4 in base 5 = 0.11111111...
+* 1 / 5 in base 5 = 0.1
+
+Compare to base 6:
+
+* 1 / 2 in base 6 = 0.3
+* 1 / 3 in base 6 = 0.2
+* 1 / 4 in base 6 = 0.13
+* 1 / 5 in base 6 = 0.11111111...
+* 1 / 6 in base 6 = 0.1
+
+The 0.11111... is appears in all integer bases, and is impossible to get rid of.
+
+Base 6 looks much more attractive here, due to all of the subitizable numbers (2, 3, 4), having a short decimal point.
+
+In any case, 5 is a factor of the decimal base. If there were any benefit to using it, we would have noticed it by now.
+
 ## Conclusion
 
 From my research it sounds like humans are best at working with the heximal number system.
