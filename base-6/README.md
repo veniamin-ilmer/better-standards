@@ -123,6 +123,15 @@ The 0.11111... is appears in all integer bases, and is impossible to get rid of.
 
 Base 6 looks much more attractive here, due to all of the subitizable numbers (2, 3, 4), having a short decimal point.
 
+To match base 5's Golden Ratio, the [Plastic number](https://en.wikipedia.org/wiki/Plastic_number) calculation:
+
+![Plastic calculation decimal](plastic_dec.svg)
+
+Looks a bit better in base 6:
+
+![Plastic calculation heximal](plastic_hex.svg)
+
+
 In any case, 5 is a factor of the decimal base. If there were any benefit to using it, we would have noticed it by now.
 
 ## Conclusion
