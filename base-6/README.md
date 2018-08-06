@@ -131,6 +131,7 @@ Looks a bit better in base 6:
 
 ![Plastic calculation heximal](plastic_hex.svg)
 
+To match the starfish and animals having 5 appendages, most insects have 6 legs. :)
 
 In any case, 5 is a factor of the decimal base. If there were any benefit to using it, we would have noticed it by now.
 
