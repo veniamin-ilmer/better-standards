@@ -62,7 +62,7 @@ All other entities are within the reach of residental and industrial:
 
 Small parks have very low maintenance cost, so I placed them on all sides of the hexagon. Although they turned orange from pollution, residence don't have worse health by visiting them. With so many parks, the [happiness](pics/happiness_view.png), [leisure](pics/leisure_view.png), and [value](pics/value_view.png) are all high.
 
-Finally, and importantly, the [noise](pics/noise_view.png) and [pollution](pics/pollution.png) is limited to the industry. And industry has easy access to the highway, since the outer hexagon is all highway.
+Finally, and importantly, the [noise](pics/noise_view.png) and [pollution](pics/pollution_view.png) is limited to the industry. And industry has easy access to the highway, since the outer hexagon is all highway.
 
 ### Modularity
 
