@@ -36,7 +36,7 @@ The inner hexagon contains the shared public services that everyone requires.
 
 Here are the game stats:
 
-![Game Stats](stats.png)
+![Game Stats](pics/stats.png)
 
 The only things that aren't modular are:
 
