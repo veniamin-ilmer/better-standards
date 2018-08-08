@@ -25,3 +25,11 @@ This design is like a self sustaining *modular* neighborhood. You can place mult
 They are able to sustain themselves with minimal outside needs.
 
 ![Zone View](pics/zone_view.png)
+
+Starting off: The inside hexagon contains the main essentials that everyone needs.
+
+![Inner Hex](pics/inner_hex.png)
+
+The elementary school reaches up to all of the residents, and handles the load of students well.
+
+![Education View](pics/education_view.png)
