@@ -8,6 +8,8 @@ A purely hexagonal road tilling means that only 3 roads join at an intersection 
 
 I've experimented with the idea in the game Cities Skylines.
 
+## Cities Skylines
+
 Cities Skyline is a game that allows us to build roads with Residential, Commercial, Industrial, and Office zones.
 
 Residential zones prefer a quiet, pollution free area. But they need to be able to work somewhere.
@@ -41,4 +43,4 @@ All other entities are within the reach of residental and industrial:
 
 Small parks have very low maintenance cost, so I placed them on all sides of the hexagon. Although they turned orange from pollution, residence don't have worse health by visiting them. With so many parks, the [happiness](pics/happiness_view.png), [leisure](pics/leisure_view.png), and [value](pics/value_view.png) are all high.
 
-Finally, and importantly, the [pics](pics/noise_view.png) and [pollution](pics/pollution.png) is limited to the industry. And industry has easy access to the highway, since the outer hexagon is all highway.
+Finally, and importantly, the [noise](pics/noise_view.png) and [pollution](pics/pollution.png) is limited to the industry. And industry has easy access to the highway, since the outer hexagon is all highway.
