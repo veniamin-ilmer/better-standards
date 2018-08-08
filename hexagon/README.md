@@ -30,6 +30,11 @@ Starting off: The inside hexagon contains the main essentials that everyone need
 
 ![Inner Hex](pics/inner_hex.png)
 
-The elementary school reaches up to all of the residents, and handles the load of students well.
+The elementary school reaches up to all of the residents, and handles the load of students well - [Education View](pics/education_view.png)
 
-![Education View](pics/education_view.png)
+All other entities are within the reach of residental and industrial:
+
+* [Fire View](pics/fire_view.png)
+* [Health View](pics/health_view.png)
+* [Death View](pics/death_view.png)
+* [Crime View](pics/crime_view.png)
