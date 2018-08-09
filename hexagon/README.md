@@ -8,7 +8,7 @@ A purely hexagonal road tilling means that only 3 roads join at an intersection 
 
 I've experimented with the idea in the game Cities Skylines.
 
-## Cities Skylines
+## Modular Hexagon Roads
 
 Cities Skyline is a game that allows us to build roads with Residential, Commercial, Industrial, and Office zones.
 
@@ -28,9 +28,28 @@ They are able to sustain themselves with minimal outside needs.
 
 ![Zone View](pics/zone_view.png)
 
-Starting off: The inside hexagon contains the main essentials that everyone needs.
+([View Annotated Version](pics/zone_annotated.png))
+
+The inner hexagon contains the shared public services that everyone requires.
 
 ![Inner Hex](pics/inner_hex.png)
+
+Here are the game stats:
+
+![Game Stats](pics/stats.png)
+
+The only things that aren't modular are:
+
+* Electrity generation
+* Water pumping and disposing
+* Garbage Disposal
+* Higher Education
+
+The Higher Education especially brings up the expenses, but would be mitigated with more module hexagons.
+
+All of these services are capable of handling multiple of such Hexagons, so they can be offloaded separately.
+
+### Breakdown
 
 The elementary school reaches up to all of the residents, and handles the load of students well - [Education View](pics/education_view.png)
 
@@ -43,4 +62,8 @@ All other entities are within the reach of residental and industrial:
 
 Small parks have very low maintenance cost, so I placed them on all sides of the hexagon. Although they turned orange from pollution, residence don't have worse health by visiting them. With so many parks, the [happiness](pics/happiness_view.png), [leisure](pics/leisure_view.png), and [value](pics/value_view.png) are all high.
 
-Finally, and importantly, the [noise](pics/noise_view.png) and [pollution](pics/pollution.png) is limited to the industry. And industry has easy access to the highway, since the outer hexagon is all highway.
+Finally, and importantly, the [noise](pics/noise_view.png) and [pollution](pics/pollution_view.png) is limited to the industry. And industry has easy access to the highway, since the outer hexagon is all highway.
+
+### Modularity
+
+The best part about this design is the modularity. Each neighborhood is self sustaining, so you can place them right next to eachother and not change anything inside of them, and grow everything that way. Because of the hexagonal highwayed design, there should not be growing pains.
