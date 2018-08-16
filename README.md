@@ -64,7 +64,7 @@ Giving the money to everyone will stop rich people from saying, "It's not fair, 
 
 The most poor people may have a higher tendency to spend money as soon as they get it. If the money is dispursed monthly, then the day they get it would be considered the "big day" when they get to spend a lump sum. This may make people more likely to *binge spend*.
 
-As a consequence, I know this may be difficult to pull off for a government agency, but it is very important that this money be dispersed *daily*. Not monthly. Automatically, electronically. Citizens should get accustomed to the money coming in every day, and depend on that money. Once they feel safe that the money will be coming in every day, I feel that will influence people to binge spend less.
+As a consequence, I know this may be difficult to pull off for a government agency, but it is very important that this money be dispersed *weekly*, or even *daily*. Automatically, electronically. Citizens should get accustomed to the money coming in often. Once they feel safe that the money will be coming in often, I feel that will influence people to binge spend less.
 
 **Why we haven't switched yet**: Fear of some people inappropriately using the money.
 
