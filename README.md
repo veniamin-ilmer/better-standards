@@ -225,3 +225,13 @@ You'd just have to remember at what time are people awake in different parts of 
 [Watch this video for more information](https://www.youtube.com/watch?v=wIC-iGDTU40&feature=youtu.be&t=528)
 
 **Why we haven't switched yet**: Tradition. Not enough awareness of issues with current light designs.
+
+## Garbage Disposal Control
+
+**Tradition**: Garbage Disposal can be turned on and off using a toggle switch. To turn off the garbage disposal, you have to flick the switch off. Without flipping the switch, the garbage disposal will stay on.
+
+**Better Standard**: The garbage disposal should be controlled by a button switch. Push the button to turn on the garbage disposal. Release the switch to turn off.
+
+It's safer and won't be confused for a light switch.
+
+**Why we haven't switch yet**: Not enough awareness.
