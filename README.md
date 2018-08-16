@@ -235,3 +235,29 @@ You'd just have to remember at what time are people awake in different parts of 
 It's safer and won't be confused for a light switch.
 
 **Why we haven't switch yet**: Not enough awareness.
+
+# Theoretically Better Standards
+
+Below are standards that are much too theoretical to be declared as a "better standard", but are interesting to study non-the-less.
+
+## Electrical Utility Frequency
+
+**Tradition**: 60 Hz alternating sine wave used by both utility mains, and 60 Hz by home devices.
+
+**Better Standard**: ~10 Hz sine wave used by utility mains, and ~400 Hz sine wave used by home devices.
+
+Please [read this article](https://borderlandsciences.org/journal/vol/46/n03-4/Walonick_Effects_6-10hz_ELF_on_Brain_Waves.html) to understand better.
+
+A ~10 Hz signal can theoretically have an overall positive effect on people's mental abilities.
+
+If that alone is shown to be true, it seems to make sense to switch to that frequency.
+
+Because electric transmission lines are so long, they act as very good antennas for whatever frequency they carry.
+
+However, a 10 Hz signal is difficult to work with electronically. Transformers have to be very large to be able to convert the signal effectively.
+
+So I propose, to have large transformers in utility mains, but household should convert the signal to ~400 Hz.
+
+~400 Hz is typically used by aircraft, due to the efficiency of small transformers being able to use this frequency.
+
+**Why we haven't switch yet**: It's very expensive to convert all 50Hz/60Hz devices to use 400Hz. It's very expensive to convert a mains utility to use 10Hz. We need more testing to see if 10Hz really produces positive mental effects.
