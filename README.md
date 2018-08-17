@@ -236,11 +236,11 @@ You'd just have to remember at what time are people awake in different parts of 
 
 ![Better Merge](merge/better.png)
 
-[Research has shown](http://www.dot.state.mn.us/trafficeng/workzone/doc/When-latemerge-zipper.pdf), it is safer for people to merge at one point at the end, rather than merge early on.
+[Research has shown](http://www.dot.state.mn.us/trafficeng/workzone/doc/When-latemerge-zipper.pdf), it is safer for people to merge at one point at the end, rather than merge early on. This is called the "zipper method".
 
-When people see a merge coming up, they usually they and move to the other lane early on, instead of at the end.
+However when people see a merge coming up, they usually move to the other lane early on, instead of at the end.
 
-As a result, the line ends up longer.
+The line ends up longer.
 
 To combat this situation, both lanes should merge into one center lane temporarily.
 
