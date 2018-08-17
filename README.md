@@ -294,8 +294,8 @@ Because electric transmission lines are so long, they act as very good antennas 
 
 However, a 10 Hz signal is difficult to work with electronically. Transformers have to be very large to be able to convert the signal effectively.
 
-So I propose, to have large transformers in utility mains, but household should convert the signal to ~400 Hz.
-
 ~400 Hz is typically used by aircraft, due to the efficiency of small transformers being able to use this frequency.
+
+So I propose, to have large transformers in utility mains, but household should convert the signal to ~400 Hz.
 
 **Why we haven't switch yet**: It's very expensive to convert all 50Hz/60Hz devices to use 400Hz. It's very expensive to convert a mains utility to use 10Hz. We need more testing to see if 10Hz really produces positive mental effects.
