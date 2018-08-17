@@ -226,6 +226,22 @@ You'd just have to remember at what time are people awake in different parts of 
 
 **Why we haven't switched yet**: Tradition. Not enough awareness of issues with current light designs.
 
+## Merging Lanes
+
+**Tradition**: One lane merges into another lane.
+
+**Better Standard**: Both lanes should merge into a center lane.
+
+[Research has shown](http://www.dot.state.mn.us/trafficeng/workzone/doc/When-latemerge-zipper.pdf), it is safer for people to merge at one point at the end, rather than merge early on.
+
+When people see a merge coming up, they usually they and move to the other lane early on, instead of at the end.
+
+As a result, the line ends up longer.
+
+To combat this situation, both lanes should merge into one center lane temporarily.
+
+**Why we haven't switch yet**: Not enough awareness.
+
 ## Garbage Disposal Control
 
 **Tradition**: Garbage Disposal can be turned on and off using a toggle switch. To turn off the garbage disposal, you have to flick the switch off. Without flipping the switch, the garbage disposal will stay on.
