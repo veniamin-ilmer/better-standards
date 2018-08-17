@@ -230,7 +230,11 @@ You'd just have to remember at what time are people awake in different parts of 
 
 **Tradition**: One lane merges into another lane.
 
+![Standard Merge](merge/standard.png)
+
 **Better Standard**: Both lanes should merge into a center lane.
+
+![Better Merge](merge/better.png)
 
 [Research has shown](http://www.dot.state.mn.us/trafficeng/workzone/doc/When-latemerge-zipper.pdf), it is safer for people to merge at one point at the end, rather than merge early on.
 
@@ -239,6 +243,10 @@ When people see a merge coming up, they usually they and move to the other lane 
 As a result, the line ends up longer.
 
 To combat this situation, both lanes should merge into one center lane temporarily.
+
+Here's how it would look like with multiple lanes:
+
+![Multilane merge](merge/multilane.png)
 
 **Why we haven't switch yet**: Not enough awareness.
 
