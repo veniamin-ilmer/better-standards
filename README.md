@@ -280,11 +280,11 @@ Below are standards that are much too theoretical to be declared as a "better st
 
 ## Electrical Utility Frequency
 
-**Tradition**: 60 Hz alternating sine wave used by both utility mains, and 60 Hz by home devices.
+**Tradition**: 50/60 Hz alternating sine wave used by both utility mains, and 50/60 Hz by home devices.
 
 **Better Standard**: ~10 Hz sine wave used by utility mains, and ~400 Hz sine wave used by home devices.
 
-Please [read this article](https://borderlandsciences.org/journal/vol/46/n03-4/Walonick_Effects_6-10hz_ELF_on_Brain_Waves.html) to understand better.
+Please [read this article](https://borderlandsciences.org/journal/vol/46/n03-4/Walonick_Effects_6-10hz_ELF_on_Brain_Waves.html) to understand the premise of the ~10 Hz signal.
 
 A ~10 Hz signal can theoretically have an overall positive effect on people's mental abilities.
 
