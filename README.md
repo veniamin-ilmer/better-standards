@@ -236,6 +236,20 @@ It's safer and won't be confused for a light switch.
 
 **Why we haven't switch yet**: Not enough awareness.
 
+## Stove Control Knobs
+
+**Tradition**: All of the knobs are Horizontally aligned.
+
+![Standard Stove](stove/tradition.png)
+
+**Better Standard**: Since there are two stove tops vertically aligned, there should be two knobs vertically aligned.
+
+![Better Stove](stove/better.png)
+
+It'll cause less confusion which knob controls which stove. It'll be safer - People won't accidently burn an empty pot.
+
+**Why we haven't switch yet**: Not enough awareness.
+
 # Theoretically Better Standards
 
 Below are standards that are much too theoretical to be declared as a "better standard", but are interesting to study non-the-less.
