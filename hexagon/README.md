@@ -64,6 +64,18 @@ Small parks have very low maintenance cost, so I placed them on all sides of the
 
 Finally, and importantly, the [noise](pics/noise_view.png) and [pollution](pics/pollution_view.png) is limited to the industry. And industry has easy access to the highway, since the outer hexagon is all highway.
 
+### Traffic
+
+Here's what the traffic looks like:
+
+![Traffic](pics/traffic.gif)
+
+No traffic lights.
+
 ### Modularity
 
 The best part about this design is the modularity. Each neighborhood is self sustaining, so you can place them right next to eachother and not change anything inside of them, and grow everything that way. Because of the hexagonal highwayed design, there should not be growing pains.
+
+Here's an example:
+
+![Modular](pics/multi_view.png)
