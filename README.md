@@ -30,7 +30,7 @@ And more parties, means the amount of bribes (political contributions), will be 
 
 I feel Approval Voting is better than others. CGP Grey makes a good argument why with his [analogy of finding a place where to eat](https://youtu.be/orybDrUj4vA?t=9).
 
-### Why Approval Voting, not Instant Runoff Voting?
+*Why Approval Voting, not Instant Runoff Voting?*
 
 With approval voting, calculating who won is simple. Just add up all the votes and see who got the most.
 
