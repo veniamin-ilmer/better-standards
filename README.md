@@ -30,6 +30,14 @@ And more parties, means the amount of bribes (political contributions), will be 
 
 I feel Approval Voting is better than others. CGP Grey makes a good argument why with his [analogy of finding a place where to eat](https://youtu.be/orybDrUj4vA?t=9).
 
+### Why Approval Voting, not Instant Runoff Voting?
+
+With approval voting, calculating who won is simple. Just add up all the votes and see who got the most.
+
+With Instant Runoff Voting, the calculation is not simple at all, and just tweaking the calculation a little changes who'd win. [Here's a good video going over that](https://www.youtube.com/watch?v=HoAnYQZrNrQ).
+
+Although Instant Runoff Voting seems to do a good job at stopping the "spoiler" problem, approval voting seems to do it better. You can read more about it [here](https://electology.org/approval-voting-versus-irv).
+
 **Why we haven't switched yet**: Politicians in power, would lose power by diluting it to other parties.
 
 ## Taxing
