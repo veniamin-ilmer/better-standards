@@ -14,6 +14,8 @@ I like to think about standards, and try and understand:
 
 Over time, I've found a list of standards / policies that we are following out of tradition, and would greatly benefit if we were to switch to a better standard.
 
+Below, I tried to order the standards / policies from what I deem to be most important to least important.
+
 ## Voting
 
 **Tradition**: [Plurality Voting](https://en.wikipedia.org/wiki/Plurality_voting)
