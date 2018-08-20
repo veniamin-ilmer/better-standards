@@ -178,7 +178,7 @@ Glass | -$70
 [Source 1](https://www.greenbiz.com/article/yes-recycling-still-good-business-if-happens)
 [Source 2](http://kdhnews.com/news/is-recycling-glass-worth-the-cost/article_8e2dd0e6-d956-11e2-ab95-0019bb30f31a.html)
 
-Hence, the government should still provide baseline free and payed recycling service.
+Hence, the government should still provide baseline free and paid recycling service.
 
 But other companies should be able to compete with the government by paying residents to recycle certain things.
 
