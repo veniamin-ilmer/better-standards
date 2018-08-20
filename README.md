@@ -142,6 +142,22 @@ If internet providers can simply plug into the network and not worry about layin
 
 **Why we haven't switched yet**: Internet Providers prefer to own a monopoly on regions by laying down their own wires. Not enough awareness of alternative.
 
+## Organ Donation
+
+**Tradition**: To donate your organs after death, you have to opt-in to the organ donation program.
+
+**Better Standard**: Everyone should be automatically enrolled to organ donation after death, and should be well informed of this. Everyone should easily be able to opt-out of the program if they wish.
+
+Lots of people die every day because there are not enough organs donated.
+
+Choosing between opting into or out of organ donation is a difficult decision.
+
+Many people choose to simply not choose, and keep the decision as-is.
+
+If the government were to automatically opt-in everyone, there would be a lot more organ donations. Increased organ donations would mean a lot more saved lives.
+
+**Why we haven't switched yet**: Some people don't want the government to mandate any choices by default. Fear that the government will purposely make opting-out too complicated, to stop people from opting out.
+
 ## Recycling
 
 **Tradition**: Recycling is a government owned task. Trucks come to collect recyclables from residents for free.
