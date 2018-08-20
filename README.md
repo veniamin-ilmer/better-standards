@@ -158,6 +158,26 @@ If the government were to automatically opt-in everyone, there would be a lot mo
 
 **Why we haven't switched yet**: Some people don't want the government to mandate any choices by default. Fear that the government will purposely make opting-out too complicated, to stop people from opting out.
 
+## Road Design
+
+**Tradition**: Square / Rectangular Grid Patterns
+
+**Better Standard**: [Hexagonal](http://web.mit.edu/ebj/www/Hexagonal.pdf)
+
+Ideally with road design, we'd want to minimize the amount of road, and maximize the amount of area that the road gets us to.
+
+A honeycomb hexagonal design maximizes the area, and minimizes the perimeter. Doing this should lower the amount of roads we require, and hence minize road cost.
+
+A purely hexagonal road tilling means that only 3 roads join at an intersection (instead of a usual four way intersection with square grid).
+
+If you chart out all the turns of a four way intersection, there are 16 possible collision points inside.
+
+In a three way intersection, there are only 3 possible collision points inside.
+
+[See example road layouts](hexagon)
+
+**Why we haven't switched yet**: Tradition. Not enough awareness of alternative.
+
 ## Recycling
 
 **Tradition**: Recycling is a government owned task. Trucks come to collect recyclables from residents for free.
@@ -194,27 +214,7 @@ Note that the companies should only pay for recyclable things. If someone dumps 
 
 If everyone gets paid for recycling, trash companies may become better at removing recyclables from their trash collected, and send them to the recycling companies for some extra income.
 
-**Why we haven't switched yet**: Tradition. Not enough awareness of alternative.
-
-## Road Design
-
-**Tradition**: Square / Rectangular Grid Patterns
-
-**Better Standard**: [Hexagonal](http://web.mit.edu/ebj/www/Hexagonal.pdf)
-
-Ideally with road design, we'd want to minimize the amount of road, and maximize the amount of area that the road gets us to.
-
-A honeycomb hexagonal design maximizes the area, and minimizes the perimeter. Doing this should lower the amount of roads we require, and hence minize road cost.
-
-A purely hexagonal road tilling means that only 3 roads join at an intersection (instead of a usual four way intersection with square grid).
-
-If you chart out all the turns of a four way intersection, there are 16 possible collision points inside.
-
-In a three way intersection, there are only 3 possible collision points inside.
-
-[See example road layouts](hexagon)
-
-**Why we haven't switched yet**: Tradition. Not enough awareness of alternative.
+**Why we haven't switched yet**: The cost of doing curbside pickup might be too significant for this to be implemented.
 
 ## Radix
 
