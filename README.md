@@ -52,7 +52,7 @@ Most taxes distort economic decisions and suppress beneficial economic activity.
 
 Sales taxes will cause products to cost more, or products to not sell at all.
 
-Georgistic taxes will tax monopolistic assets (Land, electromagnetic spectrum, copyright/patents, domain names), causing owners to use the resource more efficiently. It has positive externalities.
+Georgistic taxes will tax holding onto monopolistic assets (Land, electromagnetic spectrum, copyright/patents, domain names), causing owners to use the resource more efficiently. It has positive externalities.
 
 The government should send people a request for payment. People should not need to fill out a tax form declaring how much they'd have to pay. There should be no exceptions for lower tax payment.
 
