@@ -182,9 +182,11 @@ Hence, the government should still provide baseline free and paid recycling serv
 
 But other companies should be able to compete with the government by paying residents to recycle certain things.
 
-Note that the action of collecting recyclables, may be need to be a separate organization from the action of recycling.
+Note that curbside pickup, can still be run for free by the government.
 
 Residents should be free to choose which company recycles their things, based on how much they'd be paid.
+
+The government run curbside pickup would send the same weight of recyclables to the company of choice.
 
 Being paid to recycle should overall increase how much people recycle.
 
