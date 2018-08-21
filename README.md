@@ -158,6 +158,24 @@ If the government were to automatically opt-in everyone, there would be a lot mo
 
 **Why we haven't switched yet**: Some people don't want the government to mandate any choices by default. Fear that the government will purposely make opting-out too complicated, to stop people from opting out.
 
+## Building Safety
+
+**Tradition**: [Building Code](https://en.wikipedia.org/wiki/Building_code)
+
+**Better Standard**: Manditory building insurance
+
+In effort to reduce the amount of work done by the government, instead of deciding new building codes for fire safety or energy efficiency, the government should just require building to buy insurance.
+
+Insurance companies will be able to assess a building's safety, and decide what the premiums should be.
+
+The more safe the building, the smaller the premiums. The more unsafe the building is, the higher the premiums.
+
+The insurance company will determine the premiums based on calculations of how much they'd have to pay to cover for damages and lawsuits.
+
+The building owner should be able to choose which insurance company they'd buy based on price. Reviewing the reasons for higher insurance cost, the owners should hopefully be influenced to make updates to the building that lower the insurance cost hence making the building safer.
+
+**Why we haven't switched yet**: Tradition. Not enough awareness of alternative.
+
 ## Road Design
 
 **Tradition**: Square / Rectangular Grid Patterns
