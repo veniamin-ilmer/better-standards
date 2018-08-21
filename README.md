@@ -174,7 +174,9 @@ The insurance company will determine the premiums based on calculations of how m
 
 The building owner should be able to choose which insurance company they'd buy based on price. Reviewing the reasons for higher insurance cost, the owners should hopefully be influenced to make updates to the building that lower the insurance cost hence making the building safer.
 
-**Why we haven't switched yet**: Tradition. Not enough awareness of alternative.
+Small insurance companies should be able to react to new building safety research, and make new rules faster than the government.
+
+**Why we haven't switched yet**: Not enough awareness of alternative.
 
 ## Road Design
 
