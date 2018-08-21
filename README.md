@@ -176,7 +176,7 @@ The building owner should be able to choose which insurance company they'd buy b
 
 Small insurance companies should be able to react to new building safety research, and make new rules faster than the government.
 
-**Why we haven't switched yet**: Not enough awareness of alternative.
+**Why we haven't switched yet**: If insurance has to pay for all damages, a big unanswered question is how much does a life cost? If someone dies because of poor building construction, can you just pay that off?
 
 ## Road Design
 
