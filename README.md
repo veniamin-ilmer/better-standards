@@ -90,6 +90,20 @@ Now the Social Security Number has been used for everything imaginable. From a v
 
 **Why we haven't switched yet**: Adding password protection to the social security card, will mean people will have to admit that it is an Identity Card... Some citizens are not ready to make that change.
 
+## Intellectual Property
+
+**Tradition**: An organization *buys* and *owns* a patent or copyright for a certain amount of time. During this time, no-one can make products that use the intellectual property, without permission or paying royalties to the owner.
+
+**Better Standard**: An organization should only be able to *rent time* for their exclusivity over a patent or copyright. The longer some intellectual property is rented, the more expensive it should become.
+
+Initial rent should be extremely low cost, potentially free, as an incentive for inventers to patent their own works, instead of depending on large organizations.
+
+The increase of rent payment over time should influence intellectual property owners to make use of their patent or copyright instead of just squating on it, waiting for royalties.
+
+If the "ownership" of the intellectual property switches hands, or if there is a gap between rent, the rent will continue to be the same, increasing over time.
+
+**Why we haven't switched yet**: Some powerful organizations own millions of old patents and copyrights. Switching from a ownership model to a rent model would make these organizations pay significantly more. These organizations would not like that, and they hold power in government planning.
+
 ## Healthcare Payment
 
 **Tradition**: The place where you work, pays every month to a health insurance company. When you need to go to the doctor, the insurance company pays the doctor.
@@ -111,20 +125,6 @@ Doctors can do short term personalized drug testing on their healthy patients, t
 Short term drugs include: Sleeping Pills, Anohetamines, and Ciprofloxacin.
 
 **Why we haven't switched yet**: Health Insurance companies wouldn't like this, and they hold power in government planning.
-
-## Intellectual Property
-
-**Tradition**: An organization *buys* and *owns* a patent or copyright for a certain amount of time. During this time, no-one can make products that use the intellectual property, without permission or paying royalties to the owner.
-
-**Better Standard**: An organization should only be able to *rent time* for their exclusivity over a patent or copyright. The longer some intellectual property is rented, the more expensive it should become.
-
-Initial rent should be extremely low cost, potentially free, as an incentive for inventers to patent their own works, instead of depending on large organizations.
-
-The increase of rent payment over time should influence intellectual property owners to make use of their patent or copyright instead of just squating on it, waiting for royalties.
-
-If the "ownership" of the intellectual property switches hands, or if there is a gap between rent, the rent will continue to be the same, increasing over time.
-
-**Why we haven't switched yet**: Some powerful organizations own millions of old patents and copyrights. Switching from a ownership model to a rent model would make these organizations pay significantly more. These organizations would not like that, and they hold power in government planning.
 
 ## Infrastructure
 
@@ -157,6 +157,26 @@ Many people choose to simply not choose, and keep the decision as-is.
 If the government were to automatically opt-in everyone, there would be a lot more organ donations. Increased organ donations would mean a lot more saved lives.
 
 **Why we haven't switched yet**: Some people don't want the government to mandate any choices by default. Fear that the government will purposely make opting-out too complicated, to stop people from opting out.
+
+## Chicken Egg Handling
+
+**Tradition**: To reduce salmonella infection, US eggs are washed and sprayed with a chemical sanitizer.
+
+**Better Standard**: All chickens should be vaccinated from salmonella. Eggs should be unwashed and don't require refrigeration.
+
+Washing the egg removes its natural protection layer.
+
+As a consequence, US eggs need to be refrigerated.
+
+Even in this situation, salmonella can still appear from inside the egg.
+
+Hence such eggs are advised not to be eaten raw.
+
+Europe handles the salmonella issue by vaccinating all chickens against it.
+
+They do not wash the eggs. With the natural protection layer, eggs don't need to be refrigerated.
+
+**Why we haven't switched yet**: Tradition. Not enough awareness of alternative.
 
 ## Building Safety
 
