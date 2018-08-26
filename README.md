@@ -176,6 +176,8 @@ Europe handles the salmonella issue by vaccinating all chickens against it.
 
 They do not wash the eggs. With the natural protection layer, eggs don't need to be refrigerated.
 
+If necessary, the washing the eggs (just to make them look cleaner), can be done on the store level.
+
 **Why we haven't switched yet**: Tradition. Not enough awareness of alternative.
 
 ## Building Safety
