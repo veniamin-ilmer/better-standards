@@ -150,6 +150,7 @@ As I learn new things about the heximal number system, I will write them here.
 * [I built an Analog clock webpage](clock.htm) ([Here is a screenshot](clock.png))
 * [Heximal Times Table](times-table.md)
 * [Here's a list of various constants and sequences in Heximal](list-of-numbers)
+* [Computer Bits / Bytes in Heximal](bits.md)
 
 ## External Links
 
