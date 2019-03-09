@@ -156,3 +156,4 @@ As I learn new things about the heximal number system, I will write them here.
 * [Base 6 Wiki](https://en.wikipedia.org/wiki/Senary).
 * [Redefining basic units of measurement in base 6](http://shacktoms.org/base-six/base-six.htm).
 * [Base 6 - The Base Not Taken](http://wiki.c2.com/?BaseSix)
+* [A better way to count](https://www.youtube.com/watch?v=qID2B4MK7Y0) (Video)
