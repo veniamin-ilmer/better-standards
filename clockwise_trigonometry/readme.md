@@ -14,7 +14,7 @@ People usually understand the up and down axis as movement in space. Higher or l
 
 We talk about sound volume or temperature in terms of being "high" and "low". Here's a quick visual that should feel intuitive:
 
-[!Temperature Graph](temperature_graph.png)
+![Temperature Graph](temperature_graph.png)
 
 ## Trigonometry
 
