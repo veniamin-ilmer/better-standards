@@ -62,7 +62,7 @@ As a recap:
 
 e<sup>iθ</sup> = cos(θ) + i * sin(θ)
 
-If you want to plot a a complex number of a graph, then the real cosine gets plotted on one axis, and the imaginary sine gets plotted on the other axis.
+If you want to plot a complex number of a graph, then the real cosine gets plotted on one axis, and the imaginary sine gets plotted on the other axis.
 
 Real numbers need to be on the same axis as cosine.
 
