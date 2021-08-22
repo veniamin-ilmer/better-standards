@@ -24,6 +24,12 @@ In standard mathematics, rotations start at the right of the circle, and go coun
 
 Let's see if we can update the definitions in trigonometry, and make it more consistent with everything else in life.
 
-If right means future, left means past, and middle means present, then it makes sense to "start" in the middle at present. Clockwise rotations means you are going into the future. Counterclockwise rotations means you are going into the past.
+If left means past, middle means present, and right means future, then it makes sense to "start" in the middle at present. Clockwise rotations means you are going into the future. Counterclockwise rotations means you are going into the past.
 
 ![New Definition](new_definition.png)
+
+## Consequences
+
+The simple change in definition of rotation and start position, does not really change trigonomic formulas. Rather, it changes one's perspective of sine, cosine, and imaginary numbers.
+
+![New Circle](new_circle.png)
