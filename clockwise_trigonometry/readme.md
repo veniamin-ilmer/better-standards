@@ -60,7 +60,7 @@ If we are going to change the positions of sine and cosine, then we will have to
 
 As a recap:
 
-e^iθ = cos(θ) + i * sin(θ)
+e<sup>iθ</sup> = cos(θ) + i * sin(θ)
 
 If you want to plot a a complex number of a graph, then the real cosine gets plotted on one axis, and the imaginary sine gets plotted on the other axis.
 
@@ -71,6 +71,10 @@ Imaginary numbers need to be on the same axis as sine.
 Traditionally, Real numbers are on the horizontal, and Imaginary numbers are on the vertical.
 
 Since we are changing the axis of cosine and sine, then we'd need to change the axis of real and imaginary numbers.
+
+![Sin Cos Complex](sin_cos_complex.png)
+
+![imaginary](imaginary.png)
 
 ## Consequences
 
@@ -86,10 +90,6 @@ Complex numbers and their conjugates are now left and right:
 
 ![Complex](complex.png)
 
-Note that all of our usual graphs stay the same, and the trigonomic definitions stay the same:
+Note that all of our usual graphs stay the same.. 
 
 ![Parabola](parabola.png)
-
-## Circle fun
-
-![Day](day.png)
