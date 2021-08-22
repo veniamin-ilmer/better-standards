@@ -20,4 +20,6 @@ We talk about sound volume or temperature in terms of being "high" and "low". He
 
 In standard mathematics, rotations start at the right of the circle, and go counterclockwise. If the horizontal axis is time, then the rotation makes it look like we are going back in time..
 
+![Standard Trigonometry](standard_trigonometry.png)
+
 Let's see if we can update the definitions in trigonometry, and make it more consistent with everything else in life.
