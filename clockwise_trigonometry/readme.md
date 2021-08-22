@@ -90,6 +90,6 @@ Complex numbers and their conjugates are now left and right:
 
 ![Complex](complex.png)
 
-Note that all of our usual graphs stay the same.. 
+Note that all of our usual graphs stay the same.. Here is a parabola. y is real, x is imaginary.
 
 ![Parabola](parabola.png)
