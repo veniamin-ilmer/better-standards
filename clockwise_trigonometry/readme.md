@@ -46,13 +46,31 @@ After a forth of a rotation, we want the point to be to the right:
 
 ![Right Point](right_point.png)
 
-Cos(pi / 2) = 0, Sin(pi / 2) = 1.
+Cos(π / 2) = 0, Sin(π / 2) = 1.
 
 In standard trigonometry, we define the cosine to represent the horizontal axis, and the sine to represent the vertical axis.
 
 Yet, if we were to say that cosine represents the vertical axis, and sine represents the horizontal axis, then we can get away with the zero degree to start on the top, and rotation to be clockwise.
 
 ![Sin Cos](sin_cos.png)
+
+## Complex plane
+
+If we are going to change the positions of sine and cosine, then we will have to deal with the position of imaginary numbers.
+
+As a recap:
+
+e^iθ = cos(θ) + i * sin(θ)
+
+If you want to plot a a complex number of a graph, then the real cosine gets plotted on one axis, and the imaginary sine gets plotted on the other axis.
+
+Real numbers need to be on the same axis as cosine.
+
+Imaginary numbers need to be on the same axis as sine.
+
+Traditionally, Real numbers are on the horizontal, and Imaginary numbers are on the vertical.
+
+Since we are changing the axis of cosine and sine, then we'd need to change the axis of real and imaginary numbers.
 
 ## Consequences
 
