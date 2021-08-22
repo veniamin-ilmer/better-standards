@@ -28,6 +28,30 @@ If left means past, middle means present, and right means future, then it makes 
 
 ![New Definition](new_definition.png)
 
+How to redefine trigonometric rotation in the way? Let's take a look at what we can do.
+
+First, from the context of a triangle, we want to make sure to keep sine and cosine the same.
+
+![Triangles](triangles.png)
+
+How can we change the definition of a circle rotation without changing the definitions of triangle?
+
+At angle = 0, we want the point to be at the top. 
+
+![Up Point](up_point.png)
+
+Cos(0) = 1, Sin(0) = 0.
+
+After a forth of a rotation, we want the point to be to the right:
+
+![Right Point](right_point.png)
+
+Cos(pi / 2) = 0, Sin(pi / 2) = 1.
+
+In standard trigonometry, we define the cosine to represent the horizontal axis, and the sine to represent the vertical axis.
+
+Yet, if we were to say that cosine represents the vertical axis, and sine represents the horizontal axis, then we can get away with the zero degree to start on the top, and rotation to be clockwise.
+
 ## Consequences
 
 The simple change in definition of rotation and start position, does not really change trigonomic formulas. Rather, it changes one's perspective of sine, cosine, and imaginary numbers.
@@ -45,8 +69,6 @@ Complex numbers and their conjugates are now left and right:
 Note that all of our usual graphs stay the same, and the trigonomic definitions stay the same:
 
 ![Parabola](parabola.png)
-
-![Triangles](triangles.png)
 
 ## Circle fun
 
