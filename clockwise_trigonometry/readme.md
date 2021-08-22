@@ -50,8 +50,4 @@ Note that all of our usual graphs stay the same, and the trigonomic definitions 
 
 ## Circle fun
 
-Below are variations of the idea that 0 is on top, with clockwise rotation meaning forward and anticlockwise meaning backward:
-
 ![Day](day.png)
-
-![Seasons](seasons.png)
