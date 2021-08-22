@@ -34,4 +34,4 @@ The simple change in definition of rotation and start position, does not really 
 
 ![New Circle](new_circle.png)
 
-Just to be clear, all of the trig formulas stay exactly the same. All we are doing is redefining which axis is real and which axis is imaginary. That is all!
+Just to be clear, all of the trig formulas stay exactly the same. All we are doing is redefining which axis is real and which axis is imaginary.
