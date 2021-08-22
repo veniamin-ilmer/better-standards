@@ -33,3 +33,5 @@ If left means past, middle means present, and right means future, then it makes 
 The simple change in definition of rotation and start position, does not really change trigonomic formulas. Rather, it changes one's perspective of sine, cosine, and imaginary numbers.
 
 ![New Circle](new_circle.png)
+
+Just to be clear, all of the trig formulas stay exactly the same. All we are doing is redefining which axis is real and which axis is imaginary. That is all!
