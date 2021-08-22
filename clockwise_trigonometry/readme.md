@@ -52,6 +52,8 @@ In standard trigonometry, we define the cosine to represent the horizontal axis,
 
 Yet, if we were to say that cosine represents the vertical axis, and sine represents the horizontal axis, then we can get away with the zero degree to start on the top, and rotation to be clockwise.
 
+![Sin Cos](sin_cos.png)
+
 ## Consequences
 
 The simple change in definition of rotation and start position, does not really change trigonomic formulas. Rather, it changes one's perspective of sine, cosine, and imaginary numbers.
