@@ -36,7 +36,7 @@ The simple change in definition of rotation and start position, does not really 
 
 Just to be clear, all of the trig formulas stay exactly the same. All we are doing is redefining which axis is real and which axis is imaginary.
 
-![Quadrants](quadrants.png)
+![Quadrants](quadrants.png) ![Complex](complex.png)
 
 All of our usual graphs stay the same, and the trigonomic definitions stay the same:
 
